@@ -1,8 +1,8 @@
 # 關卡1A: Regal Ballroom
-**通關目標: 使用Sonic Amplifier擊殺25個敵人**
+**通關目標: 擊殺25個Jagaubis**
 
 ## 關卡機制
-- 此關卡的敵人有高額減傷，需要使用Sonic Amplifier輔助解決
+- 目標敵人Jagaubis有高額減傷，需要使用Sonic Amplifier輔助解決
 
 - 此房間的上方有一把Sonic Amplifier，可以藉由其正下方的門上去，或是用位移技上去
   
@@ -16,9 +16,9 @@
 
 <img width="767" height="462" alt="image" src="https://github.com/user-attachments/assets/895c0a1e-94aa-481d-a28a-fb100bf01621" />
 
-- 被轟炸的敵人會損失大量血量並失去減傷效果
+- 被轟炸的Jagaubis會損失大量血量並失去減傷效果
 
-- 其餘玩家的工作即是將怪聚在一起方便拿Amplifier的玩家轟炸，場上還會有一隻沒有減傷效果，體型較大的敵人Gendarmr Caster，它死掉會將其它敵人拉過去原來所在的位置
+- 其餘玩家的工作即是將Jagaubis聚在一起方便拿Amplifier的玩家轟炸，場上還會有一隻沒有減傷效果，體型較大的敵人Gendarme Caster，它死掉會將其它敵人拉過去原來所在的位置
 
 <img width="681" height="495" alt="image" src="https://github.com/user-attachments/assets/9a853324-4eb8-429a-b881-46ffd6bc5fee" />
 
@@ -28,7 +28,7 @@
   - 轟炸時會有衝擊波，傷害並擊退地上的玩家 
 
 ## 關卡攻略建議
-1. 善用Gendarmr Caster拉怪
+1. 善用Gendarme Caster拉怪
 2. Guild Raid模式下，轟炸位置最好遠離其他玩家
 
 ---
