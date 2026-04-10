@@ -37,8 +37,3 @@
 
 ---
 # Raid buff
-
-## Boss技能
-## Boss攻略建議
-
-# Raid buff
