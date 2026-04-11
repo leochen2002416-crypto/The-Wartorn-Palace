@@ -126,10 +126,8 @@
 
 ## Boss機制
 ### Corrupted
-每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，Corrupted玩家踩到尖刺時會受到持續傷害，同時Corrupted也會傳染給附近的隊友，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
+每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，Corrupted會傳染給附近的隊友，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
-
-
 
 
 ### 鎖鏈
