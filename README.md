@@ -92,9 +92,28 @@
 
 ---
 # 關卡3: The Spire's Shadow
-**通關目標: 破壞9個Anchors of Hate**
+**通關目標: 使用Bane of Binding破壞9個Anchors of Hate**
 
 ## 關卡機制
+- 場地的中央有一把Bane of Binding，需要一個人拿取，關卡才會正式開始
+
+<img width="1438" height="686" alt="image" src="https://github.com/user-attachments/assets/ce5fee0b-9964-4c88-a368-7f14f241eb5a" />
+
+- 手持Bane of Binding的人按右鍵可以往前衝刺，摧毀直線範圍上的所有Anchors of Hate，視角往上可以調整衝刺距離(可一次摧毀多個Anchors，仰角45度距離最遠)
+<img width="248" height="201" alt="image" src="https://github.com/user-attachments/assets/9bd6acf5-a222-4ce0-bda8-2d1e4a9f9045" />
+
+- 地上會顯示血條，血條打空後會開啟一個洞口，之後Anchor of Hate會冒出
+
+<img width="302" height="108" alt="image" src="https://github.com/user-attachments/assets/f707d49c-ed46-4756-b7b6-f90ff3040b23" />
+
+<img width="847" height="639" alt="image" src="https://github.com/user-attachments/assets/84cf7b33-139f-4ae3-8c73-c23b81212e34" />
+
+
+
+- 每摧毀一個Anchors of Hate，會在生成一個發光的怪物Carnifex，直到它被擊殺前，都不能使用衝刺
+
+<img width="276" height="317" alt="image" src="https://github.com/user-attachments/assets/6de2f299-b754-43cd-80a4-05cf175786bc" />
+
 ## 關卡攻略建議
 
 ---
