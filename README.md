@@ -227,7 +227,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
   - -8 2nd Spell Cost
   - +25 Agility
   
-※王關前的房間會強迫玩家選debuff，否則無法進入下一關
+※王關前的房間會強迫玩家選debuff，否則無法進入王關
 - Faceless
   - -10 Strenngth
   - -10 Dexterity
