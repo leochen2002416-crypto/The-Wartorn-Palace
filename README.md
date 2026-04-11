@@ -108,7 +108,7 @@
 
 <img width="847" height="639" alt="image" src="https://github.com/user-attachments/assets/84cf7b33-139f-4ae3-8c73-c23b81212e34" />
 
-- Anchor of Hate需要有人在附近待著，否則就會縮回去，如果縮回去就要重新打地上的血條把Anchor叫出來
+- **Anchor of Hate需要有人在附近待著，否則就會縮回去**，如果縮回去就要重新打地上的血條把Anchor叫出來
 - 場地上有些洞口會被尖刺覆蓋，尖刺也需要Bane of Binding撞掉才可以打洞
 - <img width="287" height="223" alt="image" src="https://github.com/user-attachments/assets/651efbf5-ba97-4798-9347-985846aad639" />
 
@@ -125,10 +125,74 @@
 <img width="993" height="991" alt="image" src="https://github.com/user-attachments/assets/b915804a-2ca4-444f-8509-9ba67a573514" />
 
 ## Boss機制
+### 紅色地板
+每個一段時間，隨機一塊扇形場地變成紅色，在紅色場地區域(包含空中)會持續受傷，Guild Raid模式下則是兩塊扇形場地
+### Corrupted
+每個一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，受到Corrupted的玩家會持續受傷，走過的地方也都會長出尖刺，同時Corrupted也會傳染給附近的隊友
+<img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
+
+
+### 鎖鏈
+Boss血量下降到50%以下，6條鎖鏈會出現在空中，鎖鏈時不時會掉到地上，掉到地上的鎖鏈可以擊殺，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
+
+<img width="1004" height="496" alt="image" src="https://github.com/user-attachments/assets/432ec2de-dcf9-4617-a75d-3515c6ee14ef" />
+
+### 死亡尖刺(Guild Raid限定)
+每當一位玩家死亡，會在其死亡地長出無法消除的巨大尖刺，靠近尖刺會持續受到傷害
 
 ## Boss技能
 
 ## Boss攻略建議
 
 ---
-# Raid buff
+# Raid (de)buff
+- Opulent I
+  - +25/5s Mana Regen
+  - +40 Max Mana
+  - +25% Elemental Damage
+- Opulent II
+  - +275 Elemental Damage
+  - +30% Elemental Damage
+  - Transcendance Major ID
+- Unrestrained I
+  - -5 3rd Spell Cost
+  - +25 Inteligence
+  - -5 1st Spell Cost
+- Unrestrained II
+  - +250 Damage
+  - +250% Main Attack Damage
+  - +30000/3s Poison
+- Omniscient I
+  - +650/3s Life Steal
+  - 40 Max Mana
+  - +20 Dexterity
+- Omniscient II
+- Ingenious I
+- Ingenious II
+  - +30 Defence
+  - +800 Health Regen
+  - Phoenix-Born Major ID
+- Relentless I
+- Relentless II
+  - +50% Main Attack Range
+  - -8 2nd Spell Cost
+  - +25 Agility
+  
+※王關前的房間會強迫玩家選debuff，否則無法進入下一關
+- Faceless
+  - -10 Strenngth
+  - -10 Dexterity
+  - -10 Defence
+  - -10 Agility
+- Apatheic
+  - -35% Walk Speed
+  - -40% Main Attack Damage
+- Prideful
+  - -2500 Health
+  - -100% Elemental Defence
+- Restless
+  - 40% Spell Damage
+  - 45% Max Mana
+- Isolated
+  - -350 Health Regen
+  - -10/5s Mana Regen
