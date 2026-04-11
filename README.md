@@ -30,6 +30,8 @@
 ## 關卡攻略建議
 1. 善用Gendarme Caster拉怪
 2. Guild Raid模式下，轟炸位置最好遠離其他玩家
+3. 敵人的攻擊傷害可觀，請小心
+4. Gendarme Caster會召喚同NOL Boss的小黑洞，請注意
 
 ---
 # 關卡1B: Grand Aisles
@@ -56,18 +58,41 @@
 
 
 ## 關卡攻略建議
-1. 原則上是根據隊伍打的屬傷來做選擇與避免，但有鑑於Wynncraft元素防禦系統有跟沒有一樣，所以應該不會有太大差別
+1. 原則上是根據隊伍打的屬傷來做選擇與避免，但有鑑於Wynncraft元素防禦系統有跟沒有一樣，所以就通關來說應該不會有太大差別，當然想打得快可能還是得注意一下
 
 ---
 # 關卡2: Statuary Hall
 **通關目標: 擊殺小王KnightMare**
 
+<img width="256" height="346" alt="image" src="https://github.com/user-attachments/assets/a2063697-7432-4a98-9c64-717eb04ffae0" />
+
 ## 關卡機制
+- KnightMare有非常高額的減傷，需要破壞位於上方平台持續生成的Corrupted Shield才能消除
+
+- 可以藉由地板上的塊狀物體上去平台
+
+<img width="316" height="147" alt="image" src="https://github.com/user-attachments/assets/aa2b0b65-e4c4-4e46-95d9-ad8b45bfddd0" />
+
+- 上方為一個5x5的平台，周圍被5個Corrupted Shield圍著
+
+<img width="1255" height="742" alt="image" src="https://github.com/user-attachments/assets/baa54fe5-9a7f-4e16-a798-3cf1df0b7b14" />
+
+- 平台上隨機位置會冒出尖刺，尖刺即將出現的位置會有紅色提示，被尖刺刺中會受傷
+
+<img width="665" height="594" alt="image" src="https://github.com/user-attachments/assets/ad3ccd0a-b52d-4c58-928c-ef283e80d2aa" />
+
+<img width="916" height="661" alt="image" src="https://github.com/user-attachments/assets/6fde479e-9512-4b76-aa17-d99920bd16b4" />
+
+- 平台上的人需要在有尖刺干擾的狀況下破壞Corrupted Shield，其餘則是全力攻擊小王
+
+- Guild Raid模式下，被尖刺刺中會附帶擊退，Corrupted Shield的數量也會更多
+
 ## 關卡攻略建議
+1. 建議有一定生存能力或是有範圍輸出能力好的玩家站上方平台
 
 ---
 # 關卡3: The Spire's Shadow
-**通關目標: 破壞9個Anchors of Hate(籠子/小anni)**
+**通關目標: 破壞9個Anchors of Hate**
 
 ## 關卡機制
 ## 關卡攻略建議
