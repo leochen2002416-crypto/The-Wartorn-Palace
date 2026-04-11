@@ -240,8 +240,8 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
   - -2500 Health
   - -100% Elemental Defence
 - Restless
-  - 40% Spell Damage
-  - 45% Max Mana
+  - -40% Spell Damage
+  - -45 Max Mana
 - Isolated
   - -350 Health Regen
   - -10/5s Mana Regen
