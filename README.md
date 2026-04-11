@@ -126,12 +126,15 @@
 
 ## Boss機制
 ### Corrupted
-每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，受到Corrupted的玩家會持續受傷，走過的地方也都會長出尖刺，同時Corrupted也會傳染給附近的隊友
+每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，走過的地方也都會長出尖刺，Corrupted玩家踩到尖刺時會受到持續傷害，同時Corrupted也會傳染給附近的隊友
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
+
+### 齒輪
+
 
 
 ### 鎖鏈
-Boss血量下降到50%以下，6條鎖鏈會出現在空中，靠近飛在空中的鎖鏈會使其掉到地上攻擊你，掉到地上的鎖鏈可以擊殺(時間內沒被擊殺會重新回到空中)，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
+Boss血量下降到50%以下會獲得50%減傷，同時6條鎖鏈會出現在空中，靠近飛在空中的鎖鏈會使其掉到地上攻擊你，掉到地上的鎖鏈可以擊殺(時間內沒被擊殺會重新回到空中)，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多(1條+50%傷害，所以Boss身上至少要被1條鎖鏈附著才能回到正常傷害)，
 
 <img width="1004" height="496" alt="image" src="https://github.com/user-attachments/assets/432ec2de-dcf9-4617-a75d-3515c6ee14ef" />
 
@@ -144,12 +147,33 @@ Boss血量下降到50%以下，6條鎖鏈會出現在空中，靠近飛在空中
 🟧 有威脅，建議迴避，除非你相信自己。
 
 🟥 迴避這個攻擊應該要是打這個boss的基本認知。
+- 🟨小怪
+- 時不時有小怪會在場地上生成
+- 🟨水雷
+多個水雷會在場地上出現，靠近會爆炸對玩家造成傷害，同時分裂成多個碎塊攻擊地上玩家
+<img width="164" height="182" alt="image" src="https://github.com/user-attachments/assets/1d018e22-3c5d-42ff-9dbc-f7835f4f2adb" />
+- 🟨導彈
+Boss會往空中發射數枚導彈，導彈在飛行一下子後會往隨機玩家身上飛，避開即可
+- 🟨/🟧轟炸
+Boss會以很快的速度飛到場地的另一邊，同時撒出多枚炸彈
+
+- 🟨/🟧衝擊跳躍
+Boss會往前跳躍，落地時會對附近玩家造成傷害並產生衝擊波，一開場Boss一定放這招
+- 🟨齒輪 
+Boss血量下降到50%以下，場地每塊扇形分界線上會持續出現齒輪往中央移動，靠近齒輪會持續受傷
+
+<img width="1138" height="704" alt="image" src="https://github.com/user-attachments/assets/734ed29a-da90-4ace-a7ab-bc76e23370b3" />
+
+- 🟨衝擊炸彈
+Boss會往地上投擲多個灰色炸彈，每個炸彈都會產生衝擊波
 - 🟧紅色地板
 每隔一段時間，隨機一塊扇形場地變成紅色，在紅色場地區域(包含空中)會持續受傷，Guild Raid模式下則是兩塊扇形場地
 - 🟨/🟧散彈槍
-Boss會在地上持續向前方發射許多子彈
+Boss會在地上持續向前方發射許多子彈，夠坦可以硬扛
+- 🟧小飛蛾
+Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 - 🟥核彈
-每隔一段時間，玩家螢幕會出現紅色的💣BOMB💣警告，同時Mother of all Bombs會在場地中央，其上方的倒數計時結束後，會向全場玩家進行轟炸，對所有玩家造成極大量傷害並獲讀-70% Healing Efficiency 
+每隔一段時間，玩家螢幕會出現紅色的💣BOMB💣警告，同時Mother of all Bombs會在場地中央，其上方的倒數計時結束後，會向全場玩家進行轟炸，對所有玩家造成極大量傷害並獲得-70% Healing Efficiency 
 
 <img width="287" height="269" alt="image" src="https://github.com/user-attachments/assets/4ea5c6dd-3e16-4672-93b5-b72246f67346" />
 
