@@ -175,7 +175,7 @@ Boss會在地上持續向前方發射許多子彈，夠坦可以硬扛
 - 🟧小飛蛾
 Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 - 🟥核彈
-每隔一段時間，玩家螢幕會出現紅色的💣BOMB💣警告，同時Mother of all Bombs會在場地中央，其上方的倒數計時結束後，會向全場玩家進行轟炸，對所有玩家造成極大量傷害並獲得-70% Healing Efficiency 
+每隔一段時間，玩家螢幕會出現紅色的💣BOMB💣警告，同時Mother of all Bombs(下圖)會在場地中央，其上方的倒數計時結束後，會向全場玩家進行轟炸，對所有玩家造成極大量傷害並獲得-70% Healing Efficiency 
 
 <img width="287" height="269" alt="image" src="https://github.com/user-attachments/assets/4ea5c6dd-3e16-4672-93b5-b72246f67346" />
 
