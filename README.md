@@ -125,15 +125,13 @@
 <img width="993" height="991" alt="image" src="https://github.com/user-attachments/assets/b915804a-2ca4-444f-8509-9ba67a573514" />
 
 ## Boss機制
-### 紅色地板
-每個一段時間，隨機一塊扇形場地變成紅色，在紅色場地區域(包含空中)會持續受傷，Guild Raid模式下則是兩塊扇形場地
 ### Corrupted
-每個一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，受到Corrupted的玩家會持續受傷，走過的地方也都會長出尖刺，同時Corrupted也會傳染給附近的隊友
+每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，受到Corrupted的玩家會持續受傷，走過的地方也都會長出尖刺，同時Corrupted也會傳染給附近的隊友
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
 
 
 ### 鎖鏈
-Boss血量下降到50%以下，6條鎖鏈會出現在空中，鎖鏈時不時會掉到地上，掉到地上的鎖鏈可以擊殺，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
+Boss血量下降到50%以下，6條鎖鏈會出現在空中，靠近飛在空中的鎖鏈會使其掉到地上攻擊你，掉到地上的鎖鏈可以擊殺(時間內沒被擊殺會重新回到空中)，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
 
 <img width="1004" height="496" alt="image" src="https://github.com/user-attachments/assets/432ec2de-dcf9-4617-a75d-3515c6ee14ef" />
 
@@ -141,8 +139,24 @@ Boss血量下降到50%以下，6條鎖鏈會出現在空中，鎖鏈時不時會
 每當一位玩家死亡，會在其死亡地長出無法消除的巨大尖刺，靠近尖刺會持續受到傷害
 
 ## Boss技能
+🟨 威脅沒到很高，視情況迴避。
+
+🟧 有威脅，建議迴避，除非你相信自己。
+
+🟥 迴避這個攻擊應該要是打這個boss的基本認知。
+- 🟧紅色地板
+每隔一段時間，隨機一塊扇形場地變成紅色，在紅色場地區域(包含空中)會持續受傷，Guild Raid模式下則是兩塊扇形場地
+- 🟨/🟧散彈槍
+Boss會在地上持續向前方發射許多子彈
+- 🟥核彈
+每隔一段時間，玩家螢幕會出現紅色的💣BOMB💣警告，同時Mother of all Bombs會在場地中央，其上方的倒數計時結束後，會向全場玩家進行轟炸，對所有玩家造成極大量傷害並獲讀-70% Healing Efficiency 
+
+<img width="287" height="269" alt="image" src="https://github.com/user-attachments/assets/4ea5c6dd-3e16-4672-93b5-b72246f67346" />
+
 
 ## Boss攻略建議
+1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
+2. 被Corrupted的玩家需要遠離其他玩家直到Corrupted效果結束
 
 ---
 # Raid (de)buff
@@ -167,12 +181,21 @@ Boss血量下降到50%以下，6條鎖鏈會出現在空中，鎖鏈時不時會
   - 40 Max Mana
   - +20 Dexterity
 - Omniscient II
+  - +20/3s Mana Steal
+  - +75% Main Attack Range
+  - +20 Strgenth
 - Ingenious I
+  - +3000 Health
+  - -40% 4th Spell Cost
+  - +25% Healing Efficiency 
 - Ingenious II
   - +30 Defence
   - +800 Health Regen
   - Phoenix-Born Major ID
 - Relentless I
+  - +30% Walk Speed
+  - +600 Main Attack Damage
+  - +35% Exploding
 - Relentless II
   - +50% Main Attack Range
   - -8 2nd Spell Cost
