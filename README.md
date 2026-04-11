@@ -85,7 +85,7 @@
 
 - 平台上的人需要在有尖刺干擾的狀況下破壞Corrupted Shield，其餘則是全力攻擊小王
 
-- Guild Raid模式下，被尖刺刺中會附帶擊退，Corrupted Shield的數量也會更多
+- Guild Raid模式下，被尖刺刺中會附帶擊退，Corrupted Shield的數量也會增加至6個，給予小王更高額的減傷
 
 ## 關卡攻略建議
 1. 建議有一定生存能力或是有範圍輸出能力好的玩家站上方平台
