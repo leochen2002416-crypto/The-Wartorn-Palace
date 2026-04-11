@@ -183,6 +183,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 ## Boss攻略建議
 1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
 2. 被Corrupted的玩家需要遠離其他玩家直到Corrupted效果結束
+3. Boss半血以下後優先攻擊鎖鏈
 
 ---
 # Raid (de)buff
