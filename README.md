@@ -102,14 +102,14 @@
 - 手持Bane of Binding的人按右鍵可以往前衝刺，摧毀直線範圍上的所有Anchors of Hate，視角往上可以調整衝刺距離(仰角45度距離最遠)
 <img width="248" height="201" alt="image" src="https://github.com/user-attachments/assets/9bd6acf5-a222-4ce0-bda8-2d1e4a9f9045" />
 
-- 地上會顯示血條，血條打空後會開啟一個洞口，之後Anchor of Hate會冒出，冒出才可以被Bane of Binding摧毀
+- 地上會有Hardened Crust，把血條打空後會開啟一個洞口，之後Anchor of Hate會冒出，冒出才可以被Bane of Binding摧毀
 
 <img width="302" height="108" alt="image" src="https://github.com/user-attachments/assets/f707d49c-ed46-4756-b7b6-f90ff3040b23" />
 
 <img width="847" height="639" alt="image" src="https://github.com/user-attachments/assets/84cf7b33-139f-4ae3-8c73-c23b81212e34" />
 
 - **Anchor of Hate需要有人在附近待著，否則就會縮回去**，如果縮回去就要重新打地上的血條把Anchor叫出來，同時Anchor也會持續釋放衝擊波和火焰試圖擊退附近玩家
-- 場地上有些洞口會被尖刺覆蓋，尖刺也需要Bane of Binding撞掉才可以打洞
+- 場地上有些洞口會被尖刺覆蓋(下圖)，尖刺也需要Bane of Binding撞掉才可以打洞
 - <img width="287" height="223" alt="image" src="https://github.com/user-attachments/assets/651efbf5-ba97-4798-9347-985846aad639" />
 
 
