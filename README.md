@@ -186,7 +186,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 3. Boss半血以下後優先攻擊鎖鏈
 
 ---
-# Raid (de)buff
+# Raid (De)Buff
 - Opulent I
   - +25/5s Mana Regen
   - +40 Max Mana
