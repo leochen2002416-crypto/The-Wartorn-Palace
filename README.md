@@ -183,6 +183,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是非Guild Raid模式下，Corrupted影響不大
 3. Boss半血以下後優先攻擊鎖鏈
 4. 不建議用EHP太低的Build，此Boss戰畫面極其混亂，EHP過低幾乎不可能存活
+5. 攜帶一名有Guardian的隊友會讓Boss戰更輕鬆
 
 ---
 # Raid (De)Buff
