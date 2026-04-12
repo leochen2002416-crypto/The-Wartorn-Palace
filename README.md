@@ -147,7 +147,7 @@ Boss血量下降到50%時，會無敵一段時間，接著獲得減傷，同時6
 - 🟨小怪
 時不時有小怪會在場地上生成
 
-- 🟨水雷
+- 🟨水雷(雖然根本沒水)
 多個水雷(下圖)會在場地上出現，靠近會爆炸對玩家造成傷害，同時分裂成多個碎塊攻擊地上玩家
 
 <img width="164" height="182" alt="image" src="https://github.com/user-attachments/assets/1d018e22-3c5d-42ff-9dbc-f7835f4f2adb" />
