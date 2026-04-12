@@ -126,7 +126,7 @@
 
 ## Boss機制
 ### Corrupted
-每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，Corrupted會傳染給附近的隊友，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
+每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，Corrupted會傳染給附近的隊友，如果發生傳染，自身會持續受到傷害，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
 
 
@@ -180,7 +180,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 
 ## Boss攻略建議
 1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
-2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是非Guild Raid模式下，Corrupted影響不大
+2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是非Guild Raid模式下，如果隊伍裡有Guardian，那Corrupted影響不大
 3. Boss半血以下後優先攻擊鎖鏈
 4. 不建議用EHP太低的Build，此Boss戰畫面極其混亂，EHP過低幾乎不可能存活
 5. 攜帶一名有Guardian的隊友會讓Boss戰更輕鬆
