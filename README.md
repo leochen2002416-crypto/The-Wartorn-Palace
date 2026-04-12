@@ -131,7 +131,7 @@
 
 
 ### 鎖鏈
-Boss血量下降到50%以下會獲得減傷，同時6條鎖鏈會出現在空中，玩家靠近飛在空中的鎖鏈會使其掉到地上試圖攻擊玩家，掉到地上的鎖鏈可以擊殺(時間內沒被擊殺會重新回到空中)，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
+Boss血量下降到50%時，會無敵一段時間，接著獲得減傷，同時6條鎖鏈會出現在空中，玩家靠近飛在空中的鎖鏈會使其掉到地上試圖攻擊玩家，掉到地上的鎖鏈可以擊殺(時間內沒被擊殺會重新回到空中)，被擊殺後，鎖鏈就會附在Boss身上，附在Boss上的鎖鏈越多，Boss受到傷害增加越多
 
 <img width="1004" height="496" alt="image" src="https://github.com/user-attachments/assets/432ec2de-dcf9-4617-a75d-3515c6ee14ef" />
 
@@ -182,8 +182,7 @@ Boss會對玩家吐出許多小飛蛾，被飛蛾打到會受傷並損失魔力
 1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
 2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是非Guild Raid模式下，如果隊伍裡有Guardian，那Corrupted影響不大
 3. Boss半血以下後優先攻擊鎖鏈
-4. 不建議用EHP太低的Build，此Boss戰畫面極其混亂，EHP過低幾乎不可能存活
-5. 攜帶一名有Guardian的隊友會讓Boss戰更輕鬆
+4. 攜帶一名有Guardian的隊友會讓Boss戰更輕鬆
 
 ---
 # Raid (De)Buff
