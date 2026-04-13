@@ -44,7 +44,7 @@
 
 <img width="633" height="164" alt="image" src="https://github.com/user-attachments/assets/11fd0433-947d-4a61-b3c6-ff863cc56c0a" />
 
-- 選擇屬性後，該房間的敵人會是該屬性的傷害及防禦，根據屬性不同，敵人也會有對應的特殊技能
+- 選擇屬性後，該房間的敵人會是該屬性的傷害及防禦，根據屬性不同，敵人也會有對應的特殊技能，Guild Raid模式下，這些技能會獲得加強
 
 <img width="541" height="39" alt="image" src="https://github.com/user-attachments/assets/a8eb2ea5-62e6-4d1e-aef7-7b7be8b35758" />
 
