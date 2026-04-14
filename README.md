@@ -16,7 +16,7 @@
 
 <img width="767" height="462" alt="image" src="https://github.com/user-attachments/assets/895c0a1e-94aa-481d-a28a-fb100bf01621" />
 
-- 被轟炸的Jagaubis會損失大量血量並失去減傷效果
+- 被轟炸的Jagaubis會發光並損失大量血量且失去減傷效果
 
 - 其餘玩家的工作即是將Jagaubis聚在一起方便拿Amplifier的玩家轟炸，場上還會有一隻沒有減傷效果，體型較大的敵人Gendarme Caster，它死掉會將其它敵人拉過去原來所在的位置
 
@@ -32,6 +32,7 @@
 2. Guild Raid模式下，轟炸位置最好遠離其他玩家
 3. 敵人的攻擊傷害可觀，請小心
 4. Gendarme Caster會召喚同NOL Boss的小黑洞，請注意
+5. 地上的人優先攻擊發光的敵人
 
 ---
 # 關卡1B: Grand Aisles
@@ -109,7 +110,7 @@
 <img width="847" height="639" alt="image" src="https://github.com/user-attachments/assets/84cf7b33-139f-4ae3-8c73-c23b81212e34" />
 
 - **Anchor of Hate需要有人在附近待著，否則就會縮回去**，如果縮回去就要重新打地上的血條把Anchor叫出來，同時Anchor也會持續釋放衝擊波和火焰試圖擊退附近玩家
-- 場地上有些洞口會被尖刺覆蓋(下圖)，尖刺也需要Bane of Binding撞掉才可以打洞
+- 場地上有些洞口會被尖刺覆蓋(下圖)，尖刺也需要Bane of Binding撞掉才可以打洞，最中間的洞口則是被祭壇覆蓋，也需要把祭壇撞掉才可以
 - <img width="287" height="223" alt="image" src="https://github.com/user-attachments/assets/651efbf5-ba97-4798-9347-985846aad639" />
 
 
@@ -119,6 +120,8 @@
 
 ## 關卡攻略建議
 1. 優先擊殺Carnifex
+2. 優先拆除尖刺/祭壇
+3. 一次衝撞撞到越多東西越好
 
 ---
 # Boss戰: Anathema
@@ -182,6 +185,7 @@ Boss會對玩家吐出許多小飛蛾
 1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
 2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是目前持續傷害的速度很慢，所以非Guild Raid模式下Corrupted影響不大
 3. Boss半血以下後優先攻擊鎖鏈
+4. Guardian + Resonance的組合非常好用，Guardian(Paladin)可以嘲諷鎖鏈將鎖鏈聚集，承傷還可以無視Corrupted機制，Resonance則是優秀的回血+清雜
 
 ---
 # Raid (De)Buff
