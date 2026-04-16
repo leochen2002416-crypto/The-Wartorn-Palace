@@ -194,7 +194,7 @@ Boss會對玩家吐出許多小飛蛾
   - +40 Max Mana
   - +25% Elemental Damage
 - Opulent II
-  - +275 Elemental Damage
+  - +200 Elemental Damage
   - +30% Elemental Damage
   - Transcendance Major ID
 - Unrestrained I
@@ -226,8 +226,8 @@ Boss會對玩家吐出許多小飛蛾
   - +600 Main Attack Damage
   - +35% Exploding
 - Relentless II
-  - +50% Main Attack Range
-  - -8 2nd Spell Cost
+  - -75% 2nd Spell Cost
+  - +8% Weaken Enemy
   - +25 Agility
   
 ※王關前的房間會強迫玩家選debuff，否則無法進入王關
@@ -237,14 +237,14 @@ Boss會對玩家吐出許多小飛蛾
   - -10 Defence
   - -10 Agility
 - Apatheic
-  - -35% Walk Speed
+  - -45% Walk Speed
   - -40% Main Attack Damage
 - Prideful
-  - -2500 Health
-  - -100% Elemental Defence
+  - -3000 Health
+  - -50% Elemental Defence
 - Restless
-  - -40% Spell Damage
-  - -45 Max Mana
+  - -35% Spell Damage
+  - -25 Max Mana
 - Isolated
-  - -350 Health Regen
+  - -375 Health Regen
   - -10/5s Mana Regen
