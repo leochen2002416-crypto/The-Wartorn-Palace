@@ -218,8 +218,8 @@ Boss會對玩家吐出許多小飛蛾
   - -40% 4th Spell Cost
   - +25% Healing Efficiency 
 - Ingenious II
+  - +1000 Health Regen
   - +30 Defence
-  - +800 Health Regen
   - Phoenix-Born Major ID
 - Relentless I
   - +30% Walk Speed
