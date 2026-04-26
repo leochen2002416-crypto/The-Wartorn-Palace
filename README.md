@@ -129,7 +129,7 @@
 
 ## Boss機制
 ### Corrupted
-每隔一段時間隨機一位玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，Corrupted會傳染給附近的隊友，如果發生傳染，自身會和被傳染的人都會持續受到傷害，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
+被尖刺攻擊的玩家會受到Corrupted，被Corrupted的玩家會有一個紅色圓圈跟著(下圖)，被Corrupted的玩家會受到持續傷害，Guild Raid模式下，被Corrupted的玩家走過的地方也都會長出尖刺
 <img width="950" height="483" alt="image" src="https://github.com/user-attachments/assets/2552c08a-be55-4bef-9ee3-53783a382287" />
 
 
@@ -183,9 +183,8 @@ Boss會對玩家吐出許多小飛蛾
 
 ## Boss攻略建議
 1. 優先攻擊Mother of all Bombs，除非你們有自信在倒數結束前擊殺Boss
-2. 被Corrupted的玩家原則上需要遠離其他玩家直到Corrupted效果結束，但是目前持續傷害的速度很慢，所以非Guild Raid模式下Corrupted影響不大
-3. Boss半血以下後優先攻擊鎖鏈
-4. Guardian + Resonance的組合非常好用，Guardian(Paladin)可以嘲諷鎖鏈將鎖鏈聚集，承傷還可以無視Corrupted機制，Resonance則是優秀的回血+清雜
+2. Boss半血以下後優先攻擊鎖鏈
+3. Guardian + Resonance的組合非常好用，Guardian(Paladin)可以嘲諷鎖鏈將鎖鏈聚集，承傷還可以無視Corrupted機制，Resonance則是優秀的回血+清雜
 
 ---
 # Raid (De)Buff
